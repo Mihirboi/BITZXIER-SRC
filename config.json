@@ -1,13 +1,13 @@
 {
-    "TOKEN": "",
-    "MONGO_DB": "",
+    "TOKEN": "MTI1Mjg2OTA2MDAyNzIyNDA3NA.GwzCuq.xMa66Ct0Y8N5fQTlN83L7VPPbPEIukAVWF9OaY",
+    "MONGO_DB": "mongodb+srv://jarvis:op@cluster0.7ttsvww.mongodb.net/?retryWrites=true&w=majority",
     "cooldown": true,
-    "owner": ["1180425876798701588","1143155471159664710"],
-    "admin": [
+    "owner": ["930449413720113223","1074347791058468894"],
+    "admin"1252869060027224074: [
 
     ],
     "np": [
 
     ],
-    "invite": ""
+    "invite": "https://discord.com/oauth2/authorize?client_id=1252869060027224074"
 }
